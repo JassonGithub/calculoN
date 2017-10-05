@@ -16,6 +16,7 @@ public class Main2Activity extends AppCompatActivity {
             @Override
             public void run() {
 
+
                 Intent i = new Intent(Main2Activity.this, MainActivity.class);
                 startActivity(i);
                 finish();
