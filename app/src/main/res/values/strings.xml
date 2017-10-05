@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Registro de notas</string>
+    <string name="m1">Programacion A:</string>
+    <string name="m2">Sw grafico: </string>
+    <string name="m3">Seminario p: </string>
+    <string name="m4">Robotica: </string>
+    <string name="m5">Auditoria: </string>
+    <string name="materia">MATERIA</string>
+    <string name="nota1">NOTA1</string>
+    <string name="nota2">NOTA2</string>
+    <string name="nota3">NOTA3</string>
+    <string name="btn1">CALCULAR NOTA TOTAL SEMESTRE</string>
+    <string name="btn2">Acerca de</string>
 </resources>

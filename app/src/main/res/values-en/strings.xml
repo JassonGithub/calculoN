@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Record of notes: </string>
+    <string name="m1">Programation A: </string>
+    <string name="m2">Sw graphic: </string>
+    <string name="m3">Seminar p: </string>
+    <string name="m4">Robotics: </string>
+    <string name="m5">Audits: </string>
+    <string name="materia">SUBJET</string>
+    <string name="nota1">SCORE1</string>
+    <string name="nota2">SCORE2</string>
+    <string name="nota3">SCORE3</string>
+    <string name="btn1">Calculate total semester</string>
+    <string name="btn2">About</string>
+</resources>
